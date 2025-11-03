@@ -23,7 +23,7 @@ Displays product details, addition of new products, and deletion confirmation as
 ---
 
 ## 👨‍💻 Made by:
-**Harsh Bhardwaj**  
-**Roll No:** 23BCS13058  
+**Shashwat Thakur**  
+**Roll No:** 23BCS11110  
 **Experiment:** 8.1  
 **Title:** CRUD Operations for Product Database Using Mongoose
